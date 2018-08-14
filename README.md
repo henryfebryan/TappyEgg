@@ -1,4 +1,4 @@
 # TappyEgg
 
-#Game
-(Using Unity
+#Mobile Game
+(Developed by Unity)
